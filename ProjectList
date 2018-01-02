@@ -1,0 +1,16 @@
+# Projects and Priorities
+
+1. Grain Price App
+Web scrape the local COOP site for recent grain prices and display them (in an app?)
+
+2. Deck Analysis Tool
+Be able to scrape top decks in a format and aggregate the decklists to see what cards are always or commonly used.  Also able to cross reference within my inventory to see what pieces I need or what decks I can almost make.  Similar to http://mtgtop8.com and their compare feature.
+
+3. Smart Mirror
+Start building app for upstairs smart mirror.
+
+4. AR Build App
+App for building a cheap AR where you can enter prices of various components, groups of components, etc. and have it tell you the most economical way to purchase everything.
+
+5. DMAHockey Rewrite with Laravel
+Yet another rewrite of DMAHockey, this time using MVC and the Laravel framework.
